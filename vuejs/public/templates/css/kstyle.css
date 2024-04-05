@@ -1,0 +1,57 @@
+.Paging { padding-left: 0; margin: 20px 0; border-radius: 4px; }
+    .Paging table > tbody > tr > td { display: inline; }
+        .Paging table > tbody > tr > td > a,
+        .Paging table > tbody > tr > td > span { position: relative; float: left; padding: 8px 12px; line-height: 1.42857143; text-decoration: none; color: #337ab7; background-color: #ffffff; border: 1px solid #dddddd; margin-left: -1px; }
+        .Paging table > tbody > tr > td > span { position: relative; float: left; padding: 8px 12px; line-height: 1.42857143; text-decoration: none; margin-left: -1px; z-index: 2; color: #aea79f; background-color: #f5f5f5; border-color: #dddddd; cursor: default; }
+        .Paging table > tbody > tr > td:first-child > a,
+        .Paging table > tbody > tr > td:first-child > span { margin-left: 0; border-bottom-left-radius: 4px; border-top-left-radius: 4px; }
+        .Paging table > tbody > tr > td:last-child > a,
+        .Paging table > tbody > tr > td:last-child > span { border-bottom-right-radius: 4px; border-top-right-radius: 4px; }
+        .Paging table > tbody > tr > td > a:hover,
+        .Paging table > tbody > tr > td > span:hover,
+        .Paging table > tbody > tr > td > a:focus,
+        .Paging table > tbody > tr > td > span:focus { color: #97310e; background-color: #eeeeee; border-color: #dddddd; }
+.form-horizontal .form-group {margin-bottom: 0;padding: 5px 0 !important;}
+.be-top-header .navbar-header{width:60px;}
+.be-top-header .navbar-header .navbar-brand{width:80px;}
+.modal-content { max-width: 100%; }
+.modal-lg {width: 1120px;}
+/*** Thanh style***/
+.noteVD { background: none repeat scroll 0 0 yellow; margin: 5px 0; padding: 10px 6px; }
+.divHead {-moz-border-bottom-colors: #ddd; -moz-border-left-colors: #ddd; -moz-border-right-colors: #ddd; -moz-border-top-colors: #ddd; border-collapse: collapse; border-color: #ddd; border-image: none; border-style: solid solid none; border-width: 1px 1px medium; font-size: 12px; font-weight: bold; height: 35px; line-height: 35px; text-indent: 5px;}
+.ktxLeft { float: left; width: 49%;}
+.ktxRight { float: right; width: 50%; }
+.textBox { color: red; font-size: 24px;}
+.textRight { text-align: right;}
+.extentTb{ border: 1px solid #ddd; border-top: none; width: 100%; margin-top:-18px;}
+.height{ height:10px;}
+.be-user-nav > li.dropdown > a {font-size: 14px;}
+.be-user-nav > li.dropdown > a .user-name {display: inline;}
+.red { color: Red; }
+.white{ color: White}
+ #kZoom .k-dialog {overflow: visible;}
+.redText {color: red;font-weight: bold;}
+.tdCenter {text-align: center;}
+.dropbox { background: none repeat scroll 0 0 #FFFFFF; border: 1px solid #C3D1EC; box-shadow: 0 1px 5px #CCCCCC; position: absolute; text-align: left; z-index: 10000; min-height: 300px; width: 500px; }
+.dropbox-content { }
+.tabbody { }
+.tabwap { width: 100%; float: left; }
+.tableft { float: left; margin-left: -100%; width: 100px; }
+.tabcontent { margin-left: 100px; height: 300px; overflow: auto; background: #EFF0F3; }
+.tabbody ul { list-style: none; margin: 0px; padding: 0px; }
+    .tabbody ul li { margin: 0px; padding: 0px; }
+        .tabbody ul li a { cursor: pointer; display: block; padding: 5px 9px; text-decoration: none; text-transform: uppercase; border: 1px solid #fff; }
+            .tabbody ul li a.active { background: #EFF0F3; border-color: #99BBE8 -moz-use-text-color #99BBE8 #99BBE8; border-image: none; border-style: solid none solid solid; border-width: 1px medium 1px 1px; }
+			
+			
+.box-comment hr { margin: 0px; }
+.list-comment { padding: 5px 0px; }
+.list-box-comment { }
+    .list-box-comment .media-time { color: #999; font-size: 80%; }
+    .list-box-comment .media-footer a { color: #3b5998; font-size: 90%; }
+.liked0 { display: none; }
+.img50 { background: #EEEEEE; width: 50px; height: 50px; display: block; border-radius: 100%; }
+.img32 { background: #EEEEEE; width: 32px; height: 32px; display: block; border-radius: 100%; }
+.media, .media-body { overflow: inherit; }
+.be-color-header .be-top-header .navbar-header .navbar-brand {background-image: url(templates/image/logo.jpg);}
+img.img-code {width: 100%; margin: 0 auto;}
